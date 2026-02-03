@@ -1,0 +1,40 @@
+img {
+    max-width: 100%;
+}
+h1{
+    font-family:'Orbitron',sans-serif;
+    color:steelblue;
+}
+h2{
+font-family:'Orbitron',sans-serif;
+    color:steelblue;
+}
+h3{
+    font-family:'Orbitron',sans-serif;
+    color:steelblue;
+}
+body{
+    text-align: center;
+    font-family:'Roboto',sans-serif;
+    background-color:white ;
+    color:dimgrey;
+}
+button{
+    background-color: steelblue;
+    color:white;
+    border:none;
+    padding: 12px 25px;
+    cursor:pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition:background-color 0.3s ease,color 0.3s ease , transform 0.2s ease;
+}
+button:hover{
+    background-color:gainsboro;
+    color:steelblue;
+    transform:translateY(-2px);
+}
+footer{
+    font-family: Exo2 ;
+    color:Black;
+}
